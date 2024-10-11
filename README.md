@@ -14,5 +14,5 @@ I’m thrilled to share that I’ve recently completed an eCommerce website call
 🎨 Creative Problem Solving: Developing new features pushed me to think creatively and troubleshoot effectively.
 
 
-🔗 Check out Cara here: https://akashverma08.github.io/Ecommerce/
+🔗 Check out website : https://ecommercecarakash.netlify.app
 
